@@ -1,0 +1,7 @@
+[
+  { "task": "Animations for all sprites", "priority": "Low" },
+  { "task": "Tileset finalized designs", "priority": "Medium" },
+  { "task": " UI Layout", "priority": "Low" },
+    { "task": " Game Logic", "priority": "Medium" }
+
+]

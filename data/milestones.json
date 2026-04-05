@@ -1,0 +1,23 @@
+[
+  {
+    "date": "31 March 2026",
+    "title": "Slime Sprites ",
+    "image": "assets/SlimeSprites.png",
+    "Duration":"9 Days",
+    "description": "Desc: Created sprites for the slime companions and their alternate transformed state.As well as their trails"
+  },
+  {
+    "date": "22 March 2026",
+    "title": "Slinger Sprite ",
+    "image": "assets/Adventurer Slinger.png",
+    "Duration":"1 Day",
+    "description": "Desc: Create tile set & Brainstorm tileset design"
+  },
+  {
+    "date": "21 March 2026",
+    "title": "Learning of Tileset",
+    "image": "assets/CookingGameidea.png",
+    "Duration":"1 Day",
+    "description": "Desc: Create tile set & Brainstorm tileset design"
+  }
+]

@@ -1,0 +1,30 @@
+[
+
+  {
+    "title": "Creating Enemy ",
+    "target": "April 2026",
+    "progress": 0,
+    "tasks": [
+      "Create Enemy Sprites",
+      "different types of enemies"
+    ]
+  },
+    {
+    "title": "Brainstorm Tileset Design + Type of levels",
+    "target": "april 2026",
+    "progress": 0,
+    "tasks": [
+      "Brainstorm tileset design",
+      "Determine types of levels"
+    ]
+  },
+    {
+    "title": "Do Animations for all sprites ",
+    "target": "may 2026",
+    "progress": 0,
+    "tasks": [
+      "Do Animations for all sprites",
+      "Create idle, walk, attack, and death animations for all characters and enemies"
+    ]
+  }
+]
